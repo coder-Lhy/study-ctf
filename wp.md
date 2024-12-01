@@ -1,6 +1,6 @@
 ### [极客大挑战2019] Have fun
 
-打开后发现是这个![Alt Text](typora-user-images/image-20241128134619873)
+打开后发现是这个![Alt Text](typora-user-images/image-20241128134619873.png)
 
 ![image-20241128134619873](C:\Users\LHY\AppData\Roaming\Typora\typora-user-images\image-20241128134619873.png)
 
