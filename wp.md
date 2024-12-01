@@ -45,7 +45,7 @@
 
 输入相应的编码让筛选过滤不执行的输出，这题是php://filter协议
 
-![img](file:///D:\QQ\Tencent Files\3436844945\nt_qq\nt_data\Pic\2024-11\Ori\a707c45cc635ca6796221d77e7e611f7.jpg)
+![Alt Text](typora-user-images/a707c45cc635ca6796221d77e7e611f7.jpg)
 
 输入/?file=php://filter/read=convert.base64-encode/resource=flag.php
 
