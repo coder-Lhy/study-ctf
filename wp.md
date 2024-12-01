@@ -1,6 +1,8 @@
 ### [极客大挑战2019] Have fun
 
-打开后发现是这个![image-20241128134619873](C:\Users\LHY\AppData\Roaming\Typora\typora-user-images\image-20241128134619873.png)
+打开后发现是这个![Alt Text](typora-user-images/image-20241128134619873)
+
+![image-20241128134619873](C:\Users\LHY\AppData\Roaming\Typora\typora-user-images\image-20241128134619873.png)
 
 不管三七二十一，直接查看源代码
 
