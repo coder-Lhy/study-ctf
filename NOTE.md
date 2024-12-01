@@ -90,13 +90,13 @@ stegsolve
 
 命令
 
-![image-20241113161309536](C:\Users\LHY\AppData\Roaming\Typora\typora-user-images\image-20241113161309536.png)
+![Alt Text](typora-user-images/image-20241113161309536.png)
 
 
 
-![image-20241113163023975](C:\Users\LHY\AppData\Roaming\Typora\typora-user-images\image-20241113163023975.png)
+![Alt Text](typora-user-images/image-20241113163023975.png)
 
-![image-20241113163113526](C:\Users\LHY\AppData\Roaming\Typora\typora-user-images\image-20241113163113526.png)
+![Alt Text](typora-user-images/image-20241113163113526.png)
 
 # Web
 
